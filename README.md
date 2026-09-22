@@ -1,4 +1,4 @@
-# activity-3
+# Activity-#3
 Syncing Github account to VSCode.
 
 Github Account:https://github.com/donaldfernandez0720
